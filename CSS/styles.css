@@ -1,0 +1,187 @@
+body{
+	background-color: #f4f6ff;
+	size: 1440px;
+	font-family: 'Spartan', sans-serif;
+	color: #6a2c70;
+}
+
+.layout{
+	position: relative;
+}
+
+.description{
+	display: inline-block;
+	width: 30%;
+	color: #6a2c70;
+	position: absolute;
+	top: 50px;
+	left: 200px;
+}
+
+.bottom-image{
+	position: absolute;
+	text-align: right;
+}
+
+.review-one{
+	background-color: #e5e5e5;
+	width: 400px;
+	height: 50px;
+	text-align: center;
+	padding-top: 3px;
+	border-radius: 25px;
+	position: absolute;
+	right: 120px;
+}
+.review-two{
+	background-color: #e5e5e5;
+	width: 400px;
+	height: 50px;
+	text-align: center;	
+	margin: 10px 0 10px 0;
+	padding-top: 3px;
+	border-radius: 25px;
+	position: absolute;
+	top: 60px;
+	right: 70px;
+}
+.review-three{
+	background-color: #e5e5e5;
+	width: 400px;
+	height: 50px;
+	text-align: center;
+	padding-top: 3px;
+	border-radius: 25px;
+	position: absolute;
+	top: 145px;
+	right: 40px;
+}
+
+.review{
+	position: absolute;
+	top: 60px;
+	right: 100px;
+}
+
+.smith{
+	position: absolute;
+	background-color: #654062;
+	bottom: 450px;
+	left: 100px;
+	border-radius: 10px;
+	width: 300px;
+	height: 250px;
+}
+
+.smith-image{
+	size: 2%;
+	position: absolute;
+	border-radius: 50%;
+	left: 20px;
+	bottom: 150px;
+}
+
+.name{
+	position: absolute;
+	left: 120px;
+	bottom: 160px;
+	color: white;
+	display: inline-block;
+}
+
+.verified{
+	position: absolute;
+	left: 120px;
+	bottom: 140px;
+	color: white;
+	display: inline-block;
+}
+
+.statement{
+	color: white;
+	position: absolute;
+	left: 10px;
+	bottom: 20px;
+}
+
+.irene{
+	position: absolute;
+	background-color: #654062;
+	bottom: 420px;
+	left: 440px;
+	border-radius: 10px;
+	width: 300px;
+	height: 250px;
+}
+
+.irene-image{
+	size: 2%;
+	position: absolute;
+	border-radius: 50%;
+	left: 20px;
+	bottom: 150px;
+}
+
+.name1{
+	position: absolute;
+	left: 120px;
+	bottom: 160px;
+	color: white;
+	display: inline-block;
+}
+
+.verified1{
+	position: absolute;
+	left: 120px;
+	bottom: 140px;
+	color: white;
+	display: inline-block;
+}
+
+.statement1{
+	color: white;
+	position: absolute;
+	left: 10px;
+	bottom: 20px;
+}
+
+.anne{
+	position: absolute;
+	background-color: #654062;
+	bottom: 380px;
+	left: 780px;
+	border-radius: 10px;
+	width: 300px;
+	height: 250px;
+}
+
+.anne-image{
+	size: 2%;
+	position: absolute;
+	border-radius: 50%;
+	left: 20px;
+	bottom: 150px;
+}
+
+.name2{
+	position: absolute;
+	left: 120px;
+	bottom: 160px;
+	color: white;
+	display: inline-block;
+}
+
+.verified2{
+	position: absolute;
+	left: 120px;
+	bottom: 140px;
+	color: white;
+	display: inline-block;
+}
+
+.statement2{
+	color: white;
+	position: absolute;
+	left: 10px;
+	bottom: 20px;
+}
